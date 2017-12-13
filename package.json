@@ -1,0 +1,16 @@
+{
+    "name": "lab04heroku",      //spaces not allowed
+    "version": "1.0.0",
+    "description": "Users API",
+    "dependencies": {
+        "restify": "4.1.1",
+		"save": "2.3.0"
+
+    },
+    "author": "Shivam Shah",
+	"private": true,
+	"main": "index.js",
+	"scripts": {
+		"start": "node index.js"
+	}
+}
